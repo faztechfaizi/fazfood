@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173248046566",
+    "project_id": "fazfood-a088a",
+    "storage_bucket": "fazfood-a088a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173248046566:android:ec5ecb4b581fdff6402227",
+        "android_client_info": {
+          "package_name": "com.example.fazfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1dGBNt8nEbx-v1OceuCgVXEYJKoD8kn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
